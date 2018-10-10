@@ -7,7 +7,8 @@ class App extends Component {
     members: [
       {name: 'Junaid', age: 21, id: 1},
       {name: 'Suhail', age: 18, id: 2},
-      {name: 'Naved', age: 23, id: 3}
+      {name: 'Naved', age: 23, id: 3},
+      {name: 'Alex', age: 35, id:4}
     ]
   }
   addMember = (member) => {
